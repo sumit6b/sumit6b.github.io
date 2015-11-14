@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#name{
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+h2{
+        font-size: 20px;
+        margin-bottom: 5px;
+}
+#wk{
+        width: 450px;
+}
+#contnr{
+    margin-left: 40px;
+}
+#pl{
+    margin:0px;
+}
+.md{
+    padding-bottom: 5px;
+}
+ul{
+    margin-top: 5px;
+}
